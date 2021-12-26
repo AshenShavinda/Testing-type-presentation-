@@ -1,0 +1,89 @@
+Types of Software Testing
+ 
+
+
+
+
+
+1.	Functional Testing
+2.	Non-Functional Testing
+ 
+
+
+
+
+•	Functional testing is the process through which QAs determine if a piece of software is acting in accordance with pre-determined requirements.
+
+•	It uses black-box testing techniques, in which the tester has no knowledge of the internal system logic.
+ 
+
+
+
+•	Unit testing
+•	Smoke testing
+•	Web testing
+•	Manual testing
+•	Automation testing
+ 
+•	Unit testing is a type of testing in which individual units or functions of software testing. Its primary purpose is to test each unit or function. A unit is the smallest testable part of an application. It mainly has one or a few inputs and produces a single output.
+•	Two types of unit testing
+1.	Manual testing
+2.	Automation testing
+ 
+
+•	Manual Testing is a type of software testing in which test cases are executed manually by a tester without using any automated tools.
+•	The purpose of Manual Testing is to identify the bugs, issues, and defects in the software application.
+•	Manual software testing is the most primitive technique of all testing types and it helps to find critical bugs in the software application.
+ 
+
+•	Automation Testing is a software testing technique that performs using special automated testing software tools to execute a test case suite.
+•	The automation testing software can also enter test data into the System Under Test, compare expected and actual results and generate detailed test reports.
+•	Software Test Automation demands considerable investments of money and resources.
+ 
+
+
+
+•	Performance testing
+•	Load testing
+•	Security testing
+•	Usability testing
+•	Compatibility testing
+ 
+
+
+•	Performance Testing is a software testing process used for testing the speed, response time, stability, reliability, scalability and resource usage of a software application under particular workload.
+
+•	Speed – Determines whether the application responds quickly
+•	Scalability – Determines maximum user load the software application can handle.
+•	Stability – Determines if the application is stable under varying loads
+ 
+
+•	Compatibility Testing is a type of Software testing to check whether your software is capable of running on different hardware, operating systems, applications, network environments, Mobile devices, Browsers.
+•	Types of compatibility testing
+1.	Hardware
+2.	OS
+3.	Software
+4.	Devices
+5.	Mobile
+ 
+
+•	Usability testing refers to evaluating a product or service by testing it with representative users.
+•	The goal is to identify any usability problems, collect qualitative and quantitative data and determine the participant's satisfaction with the product.
+ 
+
+
+
+
+•	Yes. It is important to know about the different types of software testing and at the same time, to achieve the best and effective testing services based on your project or application type.
+ 
+
+
+
+
+
+
+
+
+
+
+Thank You
